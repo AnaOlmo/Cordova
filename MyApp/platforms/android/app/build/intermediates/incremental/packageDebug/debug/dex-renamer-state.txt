@@ -1,0 +1,4 @@
+#Wed Feb 28 13:22:32 CET 2018
+base.0=C\:\\wamp64\\www\\Cordova\\MyApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\wamp64\\www\\Cordova\\MyApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
